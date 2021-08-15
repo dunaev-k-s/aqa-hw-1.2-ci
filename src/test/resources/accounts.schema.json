@@ -9,7 +9,8 @@
       "id",
       "name",
       "number",
-      "balance"
+      "balance",
+      "currency"
     ],
     "properties": {
       "id": {
